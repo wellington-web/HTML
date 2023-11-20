@@ -1,0 +1,18 @@
+.titulo {
+    color: red;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tituloVerde {
+    color: rgb(18, 168, 18);
+    font-size: small;
+}
+
+.tituloAzul {
+    color: blue;
+}
+
+.paragrafo {
+    line-height: 5;
+}
