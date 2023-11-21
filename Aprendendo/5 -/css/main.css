@@ -10,17 +10,25 @@ body {
 }
 
 main {
-    margin:  0 auto;
-    width: 980px;
+    margin: 0 auto;
+    width: 1280px;
     position: relative;
 }
 
 .logo {
-    padding: 15px;
+    float:left;
+    padding: 9px;
+    width: 60%;
+
+}
+.rede-sociais ul li {
+    margin-left: 10px;
+    display: inline block;
+    float: left;
+    list-style: none;
 }
 
-.rede-sociais ul li {
-    display: inline-block;
-    float: left;
-
+.rede-sociais {
+    width: 30%;
+    float: right;
 }
