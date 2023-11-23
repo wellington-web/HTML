@@ -45,12 +45,22 @@ main {
 
 .menu-url {
     border-bottom:3px  solid #8b8b8b;
+    padding-top: 10px;
 }
 
 .menu ul li {
     display: inline-block;
     color: #8b8b8b;
     margin-left: 25px;
+    height: 25px;
+}
+
+.menu ul li:hover {
+    border-bottom: 1px solid #00bac6;
+}
+
+.menu ul li a:hover {
+    color: #00bac6;
 }
 .menu ul li a {
     color: #8b8b8b;
