@@ -19,3 +19,11 @@
 
 ## Ferramentas utilizadas
 ## Tecnologias utilizadas
+
+* HHTML
+* Java Script
+* CSS
+* React
+* Springt Bot
+* mySQL
+* Java
