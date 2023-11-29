@@ -9,3 +9,8 @@ body {
   background-color: #252323;
   height: 60px;
 }
+
+.logo {
+  position: relative;
+  float: left;
+}
