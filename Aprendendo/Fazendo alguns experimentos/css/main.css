@@ -4,10 +4,10 @@ body {
   margin: 0 auto;
 }
 
-.menu-principal {
+main {
   width: 100%;
-  background-color: #252323;
-  height: 60px;
+  float: left;
+  position: relative;
 }
 
 .logo {
