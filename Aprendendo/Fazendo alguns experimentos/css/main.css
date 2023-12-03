@@ -5,15 +5,9 @@ body {
 }
 
 main {
-  width: 100%;
-  float: left;
+  margin: 0 auto;
+  width: 1366px;
   position: relative;
-}
-
-.logo {
-  float: left;
-  padding: 9px;
-  width: 60%;
 }
 
 section {
@@ -21,3 +15,22 @@ section {
   height: 8rem;
   background-image: linear-gradient(to bottom,  #252323 0%,#252323 50%, white 50%);
 }
+
+.logo {
+  float: left;
+  padding: 14px;
+  width: 60%;
+}
+
+.rede-sociais {
+  width: 35%;
+  float: left;
+}
+
+.rede-sociais ul li {
+  margin-left: 16px;
+  display: inline-block;
+  float: left;
+}
+
+
