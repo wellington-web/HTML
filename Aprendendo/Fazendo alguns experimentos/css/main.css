@@ -4,6 +4,10 @@ body {
   margin: 0 auto;
 }
 
+.header {
+  width: 100%;
+}
+
 main {
   margin: 0 auto;
   width: 1366px;
@@ -33,10 +37,15 @@ section {
   display: inline-block;
 }
 
+.menu {
+  width: 60%;
+}
+
 .menu ul li {
   display: inline-block;
   color: #8b8b8b;
-  margin-left: 8px;
+  margin-left: 9px;
+  padding-top: 86px;
 }
 
 .menu ul li a {
@@ -47,7 +56,8 @@ section {
 }
 
 .busca {
-  float: right;
+
+  position: relative;
 }
 
 
