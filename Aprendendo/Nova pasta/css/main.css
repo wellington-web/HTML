@@ -1,3 +1,54 @@
-.body {
-    
+body {
+    margin: 0;
+    min-height: 100%;
+    background-color: #fff;
+}
+
+main {
+
+    position: relative;
+
+}
+
+.header-1 {
+    background-color: #1a1b1f;
+    height: 60px;
+}
+
+.logo {
+    width: 233px;
+    height: 106px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+
+}
+
+.rede-sociais {
+    width: 230px;
+    height: 60px;
+    float: right;
+}
+
+.rede-sociais ul li {
+    margin: 16px;
+    display: inline;
+}
+
+ul {
+    padding: 0px;
+}
+
+
+
+.header-2 {
+    height: 60px;
+    border-bottom: solid 1px #dfd9cd;
+}
+
+.menu-navegacao {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 30px 50px;
 }

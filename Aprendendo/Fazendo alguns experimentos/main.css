@@ -38,7 +38,10 @@ section {
 }
 
 .menu {
-  width: 60%;
+  width: 100%;
+  align-items: center;
+  line-height: 20px;
+  display: inline-block;
 }
 
 .menu ul li {
@@ -56,8 +59,7 @@ section {
 }
 
 .busca {
-
-  position: relative;
+  float: right;
 }
 
 .busca input {
