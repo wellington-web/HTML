@@ -5,3 +5,5 @@ $('.slider-principal').slick({
   sliderToShow:1,
   adaptiveHeight: true
 });
+
+
